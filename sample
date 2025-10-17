@@ -8,3 +8,9 @@ git push
 
 
 The list of commands to pull are:
+
+git branch
+git checkout main
+git fetch origin
+git pull origin main
+git pull
