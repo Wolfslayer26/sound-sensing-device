@@ -1,1 +1,10 @@
-this is just an sample file for code creation
+this is just an sample file for code creation.
+
+The list of commands to push are:
+
+git add sample
+git commit -m "Add the sample file"
+git push
+
+
+The list of commands to pull are:
